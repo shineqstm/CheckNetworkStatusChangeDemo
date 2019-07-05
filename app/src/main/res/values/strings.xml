@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CheckNetworkStatusChangeDemo</string>
+    <string name="not_network">网络连接不可用</string>
+</resources>
